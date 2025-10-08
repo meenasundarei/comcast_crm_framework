@@ -32,12 +32,12 @@ public class HomePage {
 	private WebElement signoutLink;
 	
 	@FindBy(linkText="Products")
-	private WebElement productslink;
+	private WebElement products_link;
 	
 	
 	
 	public WebElement getProductslink() {
-		return productslink;
+		return products_link;
 	}
 
 	public WebElement getSignoutLink() {
