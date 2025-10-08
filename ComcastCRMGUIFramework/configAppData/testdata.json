@@ -1,0 +1,7 @@
+{
+"browser":"firefox"
+"url":"http:/app.com"
+"username":"admin"
+"password":"manager"
+"timeout":20
+}
