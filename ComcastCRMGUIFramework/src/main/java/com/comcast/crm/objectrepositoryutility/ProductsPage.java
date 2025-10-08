@@ -16,10 +16,10 @@ WebDriver driver;
 	}
 	
 	@FindBy(xpath="//img[@alt='Create Product...']")
-	private WebElement createProductsImg;
+	private WebElement createProducts_Img;
 
 	public WebElement getCreateProductsImg() {
-		return createProductsImg;
+		return createProducts_Img;
 	}
 	
 	
